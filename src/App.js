@@ -1,10 +1,10 @@
 import React from 'react'
-import UseCallbackHook from './Hooks/useCallback'
+import Hooks from './Hooks/Hooks'
 const App = () => {
 
   return (
     <>
-      < UseCallbackHook />
+      < Hooks />
     </>
   )
 }
